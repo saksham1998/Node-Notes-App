@@ -1,0 +1,15 @@
+{
+  "name": "node-note-app",
+  "version": "1.0.0",
+  "description": "A simple notes app",
+  "main": "app.js",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saksham",
+  "license": "ISC"
+}
