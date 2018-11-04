@@ -1,5 +1,5 @@
 # Node-Notes-App
-A simple notes app,completely made of javascript and node.js
+A simple notes app,completely made of javascript and node.js.
 Works on command line/bash...
 
 Commands(specific):
@@ -9,4 +9,4 @@ Commands(specific):
 4. list      -List's all the Notes
 5. removeAll -Delete's all the Notes
 
-*Third party module YARGS
+*Third party module :YARGS
